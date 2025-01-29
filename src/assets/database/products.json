@@ -1,0 +1,191 @@
+[
+  {
+    "image": "shoe-image (1).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Zoom Fly 4",
+    "price": "92",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (2).jpg",
+    "category": "Kid's Shoe",
+    "name": "Air Jordan 6 Retro",
+    "price": "197",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (3).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Air Force 1 '07 LX",
+    "price": "133",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (4).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Zoom GT Cut",
+    "price": "484",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (5).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Tiempo Legend 8 Pro FG",
+    "price": "364",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (6).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike Air Max 90",
+    "price": "86",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (7).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Alpha Menace Elite 2",
+    "price": "463",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (8).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Air Jordan 1 Retro High OG",
+    "price": "145",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (9).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Alphafly NEXT%",
+    "price": "470",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (10).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Air Max Pre-Day",
+    "price": "110",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (12).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Air Max 1 Anniversary Blue",
+    "price": "68",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (13).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike Air Max 1 Clot Kiss of Death",
+    "price": "227",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (14).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Dunk Low Coast",
+    "price": "463",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (15).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Dunk Low Green Glow",
+    "price": "139",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (17).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Air More Uptempo Tri-Color",
+    "price": "279",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (19).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike Air Force 1 Low Dodgers",
+    "price": "98",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (20).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Dunk Low University Blue",
+    "price": "115",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (21).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Air Force 1 Low Coral Stardust",
+    "price": "74",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (22).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Air Max 97 Sean Wotherspoon",
+    "price": "226",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (23).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Dunk Low's",
+    "price": "329",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (24).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike ZoomX Vaporfly NEXT%",
+    "price": "190",
+    "rating": "4.00"
+  },
+  {
+    "image": "shoe-image (25).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike React Infinity Run Flyknit Bright Crimson",
+    "price": "397",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (26).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike Blazer Mid '77 Vintage White/Yellow",
+    "price": "30",
+    "rating": "5.00"
+  },
+  {
+    "image": "shoe-image (27).jpg",
+    "category": "Kid's Shoe",
+    "name": "Nike Air Max 1 Anniversary Red",
+    "price": "142",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (28).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Dunk Low Lime Ice",
+    "price": "365",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (29).jpg",
+    "category": "Women's Shoe",
+    "name": "Nike Air Force 1 '07 Next Nature",
+    "price": "402",
+    "rating": "3.00"
+  },
+  {
+    "image": "shoe-image (3).jpg",
+    "category": "Men's Shoe",
+    "name": "Nike Air Pegasus '89 G",
+    "price": "482",
+    "rating": "4.00"
+  }
+]
